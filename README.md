@@ -1,3 +1,3 @@
 # First-project
 This is my first project.
-<br> Author - Surya Kumar
+<br> Author - Surya Kumar Yadav
